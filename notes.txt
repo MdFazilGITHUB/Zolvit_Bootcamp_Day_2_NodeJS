@@ -1,0 +1,2 @@
+This is my first note for Day 2 Node.js assignment.
+Adding a second line to the note.
